@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi there, I'm Jeerhz! 👋
 
 Welcome to my GitHub profile! Here's a bit about me:
@@ -29,4 +28,3 @@ Welcome to my GitHub profile! Here's a bit about me:
 Feel free to reach out to me via [adle.ben-salem@eleves.enpc.fr] or connect with me on [LinkedIn](https://linkedin.com/in/adle-ben-salem).
 
 Thanks for visiting my profile!
-````
