@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Adle%20Ben%20Salem&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&font=Merriweather" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=200&section=header&text=Adle%20Ben%20Salem&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&font=Merriweather" />
 </div>
 
 <div align="center">
@@ -71,5 +71,5 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&height=120&section=footer" />
 </div>
