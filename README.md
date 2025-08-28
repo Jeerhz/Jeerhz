@@ -32,6 +32,9 @@
    <a href="https://junior-pep.fr/">
     <img src="https://junior-pep.fr/img/presentation/logo-couleur.png" alt="Ponts Etudes Projets" width="150" height="150"/>
   </a>
+     <a href="https://imagine-lab.enpc.fr/">
+    <img src="https://imagine-lab.enpc.fr/wp-content/uploads/logo-ligm-150x150.png" alt="Labo IMAGINE" width="150" height="150"/>
+  </a>
 </div>
 
 <br/>
