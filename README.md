@@ -58,7 +58,7 @@
 ## Daily Inspiration
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20are%20going%20through%20hell,%20keep%20going&author=Winston%20Churchill" alt="Quote" />
 </div>
 
 <br/>
