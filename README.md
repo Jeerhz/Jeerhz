@@ -10,7 +10,6 @@
 
 
 <div align="center">
-  <a href="https://adle.dev"><img src="https://img.shields.io/badge/_🌐adle.dev-FF6B6B?style=for-the-badge&logoColor=white" /></a>
   <a href="https://sylog-app.com"><img src="https://img.shields.io/badge/🧿_Sylog-4ECDC4?style=for-the-badge&logoColor=white" /></a>
 </div>
 
