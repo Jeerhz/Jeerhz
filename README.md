@@ -26,7 +26,7 @@
     <img src="https://www.elaia.com/wp-content/uploads/2024/01/Capture_20d_E2_80_99_C3_A9cran_202023_05_12_20_C3_A0_2017.10.02.png" alt="phospho" width="150" height="150"/>
   </a>
     <a href="https://www.hesge.ch/geneve/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3ALogo_HES-SO_couleur_trilingue.jpg&psig=AOvVaw3SMt0ZqznKblwl_sHSq1pu&ust=1761490135473000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLD7tsLMv5ADFQAAAAAdAAAAABAE" alt="HES-SO Genève" width="150" height="150"/>
+    <img src="https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/Medias/logos/HES_SO_Logo_RGB.png" alt="HES-SO Genève" width="150" height="150"/>
   </a>
    <a href="https://junior-pep.fr/">
     <img src="https://junior-pep.fr/img/presentation/logo-couleur.png" alt="Ponts Etudes Projets" width="150" height="150"/>
