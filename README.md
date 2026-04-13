@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Machine+Learning;Deep+Learning;Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Machine+Learning;Deep+Learning;Computer+Vision;NLP;" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -33,6 +33,10 @@
   </a>
      <a href="https://imagine-lab.enpc.fr/">
     <img src="https://imagine-lab.enpc.fr/wp-content/uploads/logo-ligm-150x150.png" alt="Labo IMAGINE" width="150" height="150"/>
+  </a>
+  </a>
+     <a href="https://www.inria.fr/fr/almanach/">
+    <img src="https://static.psl.eu/sites/default/files/2020-07/inria.png" alt="Team ALMANACH" width="150" height="150"/>
   </a>
 </div>
 
