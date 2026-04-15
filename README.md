@@ -28,9 +28,6 @@
     <a href="https://www.hesge.ch/geneve/">
     <img src="https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/Medias/logos/HES_SO_Logo_RGB.png" alt="HES-SO Genève" width="150" height="150"/>
   </a>
-   <a href="https://junior-pep.fr/">
-    <img src="https://junior-pep.fr/img/presentation/logo-couleur.png" alt="Ponts Etudes Projets" width="150" height="150"/>
-  </a>
      <a href="https://imagine-lab.enpc.fr/">
     <img src="https://imagine-lab.enpc.fr/wp-content/uploads/logo-ligm-150x150.png" alt="Labo IMAGINE" width="150" height="150"/>
   </a>
