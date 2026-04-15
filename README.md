@@ -18,24 +18,23 @@
 
 ## Experiences
 
-<div align="center" style="display: flex; gap: 20px;">
+<p align="center">
   <a href="https://ecoledesponts.fr/">
-    <img src="https://wordpress.concoursminesponts.fr/wp-content/uploads/2024/08/Logo-ENPC-RVB.png" alt="École Nationale des Ponts" width="150" height="150"/>
+    <img src="https://wordpress.concoursminesponts.fr/wp-content/uploads/2024/08/Logo-ENPC-RVB.png" width="120"/>
   </a>
- <a href="https://phospho.ai/">
-    <img src="https://www.elaia.com/wp-content/uploads/2024/01/Capture_20d_E2_80_99_C3_A9cran_202023_05_12_20_C3_A0_2017.10.02.png" alt="phospho" width="150" height="150"/>
+  <a href="https://phospho.ai/">
+    <img src="https://www.elaia.com/wp-content/uploads/2024/01/Capture_20d_E2_80_99_C3_A9cran_202023_05_12_20_C3_A0_2017.10.02.png" width="120"/>
   </a>
-    <a href="https://www.hesge.ch/geneve/">
-    <img src="https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/Medias/logos/HES_SO_Logo_RGB.png" alt="HES-SO Genève" width="150" height="150"/>
+  <a href="https://www.hesge.ch/geneve/">
+    <img src="https://www.hes-so.ch/fileadmin/documents/HES-SO/Documents_HES-SO/images/Medias/logos/HES_SO_Logo_RGB.png" width="120"/>
   </a>
-     <a href="https://imagine-lab.enpc.fr/">
-    <img src="https://imagine-lab.enpc.fr/wp-content/uploads/logo-ligm-150x150.png" alt="Labo IMAGINE" width="150" height="150"/>
+  <a href="https://imagine-lab.enpc.fr/">
+    <img src="https://imagine-lab.enpc.fr/wp-content/uploads/logo-ligm-150x150.png" width="120"/>
   </a>
+  <a href="https://www.inria.fr/fr/almanach/">
+    <img src="https://static.psl.eu/sites/default/files/2020-07/inria.png" width="120"/>
   </a>
-     <a href="https://www.inria.fr/fr/almanach/">
-    <img src="https://static.psl.eu/sites/default/files/2020-07/inria.png" alt="Team ALMANACH" width="150" height="150"/>
-  </a>
-</div>
+</p>
 
 <br/>
 
